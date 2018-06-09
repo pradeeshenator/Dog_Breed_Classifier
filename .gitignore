@@ -105,9 +105,6 @@ venv.bak/
 
 # data files
 data/
-bottleneck_features/DogVGG16Data.npz
-saved_models/weights.best.from_scratch.hdf5
-saved_models/weights.best.VGG16.hdf5
 
 # mac files
 .DS_Store
