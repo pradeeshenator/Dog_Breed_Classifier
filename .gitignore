@@ -103,8 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# data files
-data/
-
 # mac files
 .DS_Store
+Dog Breed Classifier Vishnu.zip
